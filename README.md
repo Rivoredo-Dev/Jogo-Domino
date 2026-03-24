@@ -12,5 +12,8 @@ O projeto preza pela separação de responsabilidades para garantir um código e
 * C++ Standard
 * Arquitetura MVC
 
----
-*Desenvolvido por [Seu Nome]*
+### 🏁 Como Executar
+1. Tenha um compilador C++ instalado (como o `g++`).
+2. Compile todos os arquivos:
+   ```bash
+   g++ Dom_PROJETO.cpp Dom_Controller.cpp Dom_Model.cpp Dom_View.cpp -o jogo_domino
